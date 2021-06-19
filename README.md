@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hello!👋</h1>
 
-<!--
-**TheTHINGYEEE/TheTHINGYEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **TheTHINGYEEE**!
+You can call me **Thingy** or **ThingyTV** for short.
 
-Here are some ideas to get you started:
+# My qualities: 😁
+- Coding for a year. Started at April 2020. ⌨️ 🖱
+- I am young cuz yeah, i'm 13 (as of 06/19/2021). 😅
+- I am a Java, Web (HTML, CSS (not that pro), Javascript) even a NodeJS Developer. 💻
+- A big nerd of computers. 🖥
+- A musician 🎧
+- A gamer (lmao). 🎮
+- A professional dumbass (literally). 😄 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Socials:
+- **Website**: https://thingyservers.xyz
+- **Discord**: ThingyTV#6696
+- **Twitter**: @thingyeeee
