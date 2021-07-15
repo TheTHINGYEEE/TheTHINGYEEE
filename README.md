@@ -15,4 +15,4 @@ You can call me **Thingy** or **ThingyTV** for short.
 # Socials:
 - **Website**: https://thingyservers.xyz
 - **Discord**: ThingyTV#6696
-- **Twitter**: @thingyeeee
+- **Twitter**: <a href="https://twitter.com/thingyeeee">@thingyeeee</a>
