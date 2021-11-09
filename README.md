@@ -13,6 +13,6 @@ You can call me **Thingy** or **ThingyTV** for short.
 - A professional dumbass (literally). 😄 
 
 # Socials:
-- **Website**: https://thingyservers.xyz
+- **Website**: https://thingytv.online
 - **Discord**: ThingyTV#6696
 - **Twitter**: <a href="https://twitter.com/thingyeeee">@thingyeeee</a>
